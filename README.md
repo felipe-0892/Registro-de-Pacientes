@@ -14,9 +14,9 @@ Este é um sistema de registro de pacientes simples, desenvolvido para facilitar
 ## Tecnologias Utilizadas
 
 - **Frontend**:
-  - HTML: Para estruturar as páginas da interface de usuário.
+  - : Para estruturar as páginas da interface de usuário.
   - Bootstrap : para estilizar as páginas já contendo a responsividade
-  - CSS: Para estilizar alguns elementos para tornar a interface mais amigável.
+  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) Para estilizar alguns elementos para tornar a interface mais amigável.
   - JavaScript: Para interatividade, como validação de formulários e buscas dinâmicas.
   
 - **Backend**: (em andamento 🛠⚙)
