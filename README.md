@@ -35,6 +35,6 @@ Este é um sistema de registro de pacientes simples, desenvolvido para facilitar
 # **Obrigado !**
 ##### - (Lembre-se de adicionar commits especificando suas mudanças no projeto caso queira me ajudar)
 
-### 😁 Este projeto também serve como base para outros projetos para registros de clientes de uma barbearia (por exemplo) 😎
+### 😁 Este projeto também serve como base para outros projetos baseado em registros de clientes de uma barbearia (por exemplo) 😎
 
 ## (Projeto em andamento 🛠⚙)
