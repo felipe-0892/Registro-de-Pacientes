@@ -20,8 +20,8 @@ Este é um sistema de registro de pacientes simples, desenvolvido para facilitar
   - <a href="#" target="_blank"><img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a> Para interatividade, como validação de formulários e buscas dinâmicas.
   
 - **Backend**: (em andamento 🛠⚙)
-  - PHP: Utilizado para processar as requisições, gerenciar a lógica de negócio e interagir com o banco de dados. - (Utilizarei composer)
-  - MySQL/PostgreSQL: Banco de dados relacional utilizado para armazenar os registros dos pacientes.
+  - <a href="#" target="_blank"><img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a> Utilizado para processar as requisições, gerenciar a lógica de negócio e interagir com o banco de dados. - (Utilizarei composer)
+  - <a href="#" target="_blank"><img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a> Banco de dados relacional utilizado para armazenar os registros dos pacientes.
 
 ## Como Executar o Projeto
 
