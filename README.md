@@ -1,5 +1,5 @@
 
-# Programa de Registro de Pacientes
+# ✔ Programa de Registro de Pacientes
 
 Este é um sistema de registro de pacientes simples, desenvolvido para facilitar o gerenciamento e o cadastro de pacientes em clínicas ou hospitais. O programa permite que os usuários adicionem, visualizem, atualizem e excluam informações dos pacientes de forma eficiente e segura.
 
@@ -13,7 +13,7 @@ Este é um sistema de registro de pacientes simples, desenvolvido para facilitar
 
 ## Tecnologias Utilizadas
 
-- **Frontend**:
+- ✔ **Frontend**:
   - <a href="#" target="_blank"><img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a> Para estruturar as páginas da interface de usuário.
   - <a href="#" target="_blank"><img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a> para estilizar as páginas já contendo a responsividade
   - <a href="#" target="_blank"><img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a> Para estilizar alguns elementos para tornar a interface mais amigável.
