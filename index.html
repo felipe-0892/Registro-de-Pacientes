@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Home | Cadastro</title>
+    <style>
+       
+    </style>
+</head>
+<body>
+
+    <header class="container bg-dark p-4">
+        <h1 class="text-light text-center mb-3">Cadastro de pacientes</h1>
+        <p class="text-white text-center">Lista para cadastro de pacientes em uma clínica de consultas</p>
+    </header>
+    <nav class="nav container bg-dark p-3 justify-content-end">
+        <ul class="nav">
+            <li class="nav-item"><a href="./pages/registro.html" class="nav-link text-light">Registro</a></li>
+            <li class="nav-item"><a href="./pages/prontuário.html" class="nav-link text-light">Prontuários</a></li>
+            <!-- <li class="nav-item"><a href="#" class="nav-link text-light">Cadastro</a></li> -->
+        </ul>
+    </nav>
+    <main class="container pt-5" style="width: 500px;">
+            <!--Formulário-->
+            <div class="container p-3">
+                <h1 class="text-dark text-center mb-5" style="width: 400px;">Registro de Pacientes</h1>
+    
+                <form id="registroForm" class="formulario">
+                    <div class="camp-form p-3 mb-2">
+                        <label for="nome">Nome:</label>
+                        <input type="text" id="nome" required>
+                    </div>
+                    
+                    <div class="camp-form p-3 mb-2">
+                        <label for="categoria">Categoria:</label>
+                        <select id="categoria" required>
+                            <option value="">Selecione uma categoria</option>
+                            <option value="consulta">Consulta</option>
+                            <option value="exame">Exame</option>
+                            <option value="encaixe">Encaixe</option>
+                            <option value="retorno">Retorno</option>
+                        </select>
+                    </div>
+                    
+                    <div class="camp-form p-3 mb-2">
+                        <label for="prioridade">Prioridade:</label>
+                        <select id="prioridade" required>
+                            <option value="">Selecione a prioridade</option>
+                            <option value="alta">Alta</option>
+                            <option value="média">Média</option>
+                            <option value="baixa">Baixa</option>
+                        </select>
+                    </div>
+                    
+                    <div class="camp-form p-3 mb-2">
+                        <label for="email">Contato:</label>
+                        <input type="text" id="email" required>
+                    </div>
+                    
+                    <button class="btn btn-outline-success mt-3 container" type="submit">Cadastrar</button>
+                </form>
+                <!-- <div id="tabela-cadastro">
+                    <h2 class="mt-5">Cadastros realizados</h2>
+                    <ul id="resultado"></ul>
+                </div> -->
+            </div>
+            
+            
+        
+    </main>
+
+    <script src="./scripts/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+</body>
+</html>
